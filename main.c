@@ -8,7 +8,8 @@ int main()
 	biggest();
 	factorial();
 
-	return 0;
+printf("Git practice!\n");
 
+return 0;
 }
 
